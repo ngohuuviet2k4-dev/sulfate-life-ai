@@ -1,0 +1,6 @@
+﻿data_status,silica_fume_pct,water_binder_ratio,initial_strength_mpa,sulfate_concentration_pct,temperature_c,exposure_days,wet_dry_cycles,curing_days,relative_humidity_pct,remaining_strength_mpa
+MINH_HOA_KHONG_PHAI_THI_NGHIEM,0,0.4,40,5,25,30,0,28,75,37
+MINH_HOA_KHONG_PHAI_THI_NGHIEM,5,0.4,42,5,25,30,0,28,75,40
+MINH_HOA_KHONG_PHAI_THI_NGHIEM,10,0.4,43,5,25,30,0,28,75,41
+MINH_HOA_KHONG_PHAI_THI_NGHIEM,0,0.4,40,5,25,60,5,28,75,34
+MINH_HOA_KHONG_PHAI_THI_NGHIEM,10,0.4,43,5,25,60,5,28,75,38
